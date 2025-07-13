@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://byjoyfactory.vercel.app/sitemap.xml
